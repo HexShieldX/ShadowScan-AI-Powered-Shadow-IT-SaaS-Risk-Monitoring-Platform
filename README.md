@@ -75,6 +75,6 @@ Fully containerized setup for easy deployment.
 - Shodan API
 <img width="944" height="407" alt="image" src="https://github.com/user-attachments/assets/7125dadc-5053-4f48-9b3c-776691fc54d0" />
 <img width="752" height="386" alt="image" src="https://github.com/user-attachments/assets/1743461f-744d-40d4-aaa5-a6583bc1689f" />
-<img width="940" height="404" alt="image" src="https://github.com/user-attachments/assets/3e45b6af-b1fc-4b0b-987b-634021f2be87" />
+<img width="948" height="410" alt="image" src="https://github.com/user-attachments/assets/f2974fed-48aa-47ce-bd2d-3ced48494cd6" />
 
 

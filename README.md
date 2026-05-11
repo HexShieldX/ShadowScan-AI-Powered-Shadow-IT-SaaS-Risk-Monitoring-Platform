@@ -74,7 +74,8 @@ Fully containerized setup for easy deployment.
 - VirusTotal API
 - Shodan API
 <img width="944" height="407" alt="image" src="https://github.com/user-attachments/assets/7125dadc-5053-4f48-9b3c-776691fc54d0" />
-<img width="752" height="386" alt="image" src="https://github.com/user-attachments/assets/1743461f-744d-40d4-aaa5-a6583bc1689f" />
+<img width="940" height="410" alt="image" src="https://github.com/user-attachments/assets/83bb2f15-0ea0-4cda-b20f-f3fa46ec95d7" />
+<img width="947" height="402" alt="image" src="https://github.com/user-attachments/assets/02e1e3e3-915c-4faa-be09-f62a04f9ae43" />
 <img width="948" height="410" alt="image" src="https://github.com/user-attachments/assets/f2974fed-48aa-47ce-bd2d-3ced48494cd6" />
 
 
